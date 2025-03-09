@@ -16,7 +16,7 @@ Prevent cheating in exams! A tool for teachers to generate unique, randomized qu
 ## How It Works
 
 ### 1. Question Bank Setup 
-State capitals are stored in a structured format within the script for easy maintenance. Edit the `capitals.py` file to modify questions.
+State capitals are stored in a structured format within the script for easy maintenance. Edit the `questions.py` file to modify questions.
 
 ### 2. Randomization Process
 The script automatically:
