@@ -40,7 +40,7 @@ Creates two files per student:
 2. Run the generator, in terminal
    python generate_quizzes.py
 
-##**COMMON QUESTIONS and MODIFICATIONS**
+**COMMON QUESTIONS and MODIFICATIONS**
 
 Q: How do I create exams for 100 students?
 A: Modify range(1, 36) to range(1, 101) in the script.
