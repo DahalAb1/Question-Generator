@@ -38,7 +38,7 @@ Creates two files per student:
    git clone https://github.com/DahalAb1/Question-Generator.git
 
 2. Run the generator, in terminal
-   python generate_quizzes.py
+   `python questions.py`
 
 **COMMON QUESTIONS and MODIFICATIONS**
 
@@ -46,7 +46,7 @@ Q: How do I create exams for 100 students?
 A: Modify range(1, 36) to range(1, 101) in the script.
 
 Q: Can I use different subjects?
-A: Yes - edit the question bank in capitals.py.
+A: Yes - edit the question bank in `questions.py`
 
 Q: How do I get PDF output?
 A: Currently supports text files only. PDF export is planned for future versions.
